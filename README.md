@@ -4,6 +4,13 @@ HD weapon/player models and weapon sounds for The Specialists 3.0, extracted
 from the TSMOD.NET repack. Game code is unchanged — these are drop-in asset
 replacements.
 
+## Source
+
+All assets were collected from the TSMOD.NET client distribution
+("TSMOD.NET - The Specialists"), available at
+[tsmod.net](https://tsmod.net). Credit for the HD models and sounds goes to
+their original authors and the TSMOD.NET team.
+
 ## Install
 
 Copy `models/` and `sound/` over your `ts/` mod directory.
